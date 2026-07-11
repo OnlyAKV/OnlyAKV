@@ -6,12 +6,14 @@
 
 # 💫 About Me
 - 📖 **B.Tech Undergraduate** @ Indian Institute of Information Technology (IIIT) Kalyani (Expected 2028)
+- 🎓 **Current CGPA:** 8.59
+- 🧠 **Specialization:** Deep Learning, Machine Learning, and complex model architectures.
 - 📚 **Relevant Coursework:** Data Structures & Algorithms, Machine Learning, Deep Learning, DBMS.
 - 🤖 **S.E.A.L Core Member:** IIIT Kalyani Robotics Club.
 - 🎯 **Event Organizer:** Organizing Team of Status Code 2 (All India Level Hackathon).
 
 ## 🌐 Socials & Contact:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-verma-678384315) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:webofaditya@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/adityakumarverma13) [![Resume](https://img.shields.io/badge/Resume-%234CAF50.svg?logo=reverbnation&logoColor=white)](https://OnlyAKV.github.io/OnlyAKV/ADITYA_Resume.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://OnlyAKV.github.io/OnlyAKV/portfolio.html) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-verma-678384315) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:webofaditya@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/adityakumarverma13) [![Resume](https://img.shields.io/badge/Resume-%234CAF50.svg?logo=reverbnation&logoColor=white)](https://OnlyAKV.github.io/OnlyAKV/ADITYA_Resume.html)
 
 ---
 
