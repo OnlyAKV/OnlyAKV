@@ -6,7 +6,6 @@
 
 # 💫 About Me
 - 📖 **B.Tech Undergraduate** @ Indian Institute of Information Technology (IIIT) Kalyani (Expected 2028)
-- 🎓 **Current CGPA:** 8.59
 - 🧠 **Specialization:** Deep Learning, Machine Learning, and complex model architectures.
 - 📚 **Relevant Coursework:** Data Structures & Algorithms, Machine Learning, Deep Learning, DBMS.
 - 🤖 **S.E.A.L Core Member:** IIIT Kalyani Robotics Club.
