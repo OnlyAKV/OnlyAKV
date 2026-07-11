@@ -1,10 +1,14 @@
 <h1 align="center">ADITYA KUMAR VERMA</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=20BEFF&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Data+Science+%26+Analytics;Quantum+Computing+Explorer;Undergrad+%40+IIIT+Kalyani" alt="Typing SVG" />
+</p>
+
 # 💫 About Me:
 📖 Undergraduate @ Indian Institute of Information Technology (IIIT) Kalyani<br><br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aditya-kumar-verma-678384315) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:webofaditya@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/adityakumarverma13)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-verma-678384315) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:webofaditya@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/adityakumarverma13)
 
 # 💻 Tech Stack:
 
