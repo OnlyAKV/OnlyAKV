@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aditya Kumar Verma - Portfolio</title>
+    <style>
+        :root {
+            --primary-color: #1a365d;
+            --secondary-color: #2b6cb0;
+            --text-color: #2d3748;
+            --card-bg: #ffffff;
+            --accent-color: #e2e8f0;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        }
+
+        body {
+            /* Upgraded Professional Background */
+            background: linear-gradient(135deg, #f0f4f8 0%, #d9e2ec 100%);
+            background-attachment: fixed;
+            color: var(--text-color);
+            line-height: 1.6;
+        }
+
+        header {
+            /* Upgraded Header Gradient */
+            background: linear-gradient(135deg, #0f2027 0%, #203a43 50%, #2c5364 100%);
+            color: white;
+            padding: 4.5rem 2rem;
+            text-align: center;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        }
+
+        header h1 {
+            font-size: 2.8rem;
+            margin-bottom: 0.5rem;
+            letter-spacing: -0.5px;
+        }
+
+        .contact-links {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+            margin-top: 1.5rem;
+        }
+
+        .contact-links a, .contact-links span {
+            color: #cbd5e1;
+            text-decoration: none;
+            font-size: 1rem;
+            transition: color 0.2s ease;
+        }
+
+        .contact-links a:hover {
+            color: #ffffff;
+            text-decoration: underline;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: -2.5rem auto 3rem;
+            padding: 0 1rem;
+            position: relative;
+            z-index: 10;
+        }
+
+        section {
+            background-color: var(--card-bg);
+            border-radius: 10px;
+            padding: 2.5rem;
+            margin-bottom: 2rem;
+            /* Upgraded Card Shadows & Hover Effect */
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.05), 0 4px 6px -2px rgba(0, 0, 0, 0.025);
+            border-top: 4px solid var(--secondary-color);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        section:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.08), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+
+        h2 {
+            color: var(--primary-color);
+            border-bottom: 2px solid var(--accent-color);
+            padding-bottom: 0.8rem;
+            margin-bottom: 2rem;
+            font-size: 1.6rem;
+            letter-spacing: -0.5px;
+        }
+
+        .timeline-item {
+            margin-bottom: 2rem;
+        }
+
+        .timeline-item:last-child {
+            margin-bottom: 0;
+        }
+
+        .timeline-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            margin-bottom: 0.8rem;
+        }
+
+        .timeline-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: var(--secondary-color);
+        }
+
+        .timeline-subtitle {
+            font-weight: 500;
+            color: #4a5568;
+            margin-top: 0.2rem;
+        }
+
+        .timeline-date {
+            font-size: 0.95rem;
+            color: #718096;
+            font-weight: 500;
+            background: #edf2f7;
+            padding: 4px 12px;
+            border-radius: 20px;
+        }
+
+        ul {
+            margin-left: 1.5rem;
+            color: #4a5568;
+        }
+
+        li {
+            margin-bottom: 0.6rem;
+        }
+
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .skill-category {
+            background: #f8fafc;
+            padding: 1.5rem;
+            border-radius: 8px;
+            border: 1px solid var(--accent-color);
+        }
+
+        .skill-category h3 {
+            font-size: 1.1rem;
+            color: var(--primary-color);
+            margin-bottom: 0.8rem;
+        }
+
+        .project-link {
+            color: var(--secondary-color);
+            text-decoration: none;
+            word-break: break-all;
+            font-weight: 500;
+        }
+
+        .project-link:hover {
+            text-decoration: underline;
+            color: var(--primary-color);
+        }
+
+        @media (max-width: 768px) {
+            .timeline-header {
+                flex-direction: column;
+                gap: 0.5rem;
+            }
+            .timeline-date {
+                display: inline-block;
+            }
+            header {
+                padding: 3rem 1rem 5rem;
+            }
+            section {
+                padding: 1.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Aditya Kumar Verma</h1>
+        <div class="contact-links">
+            <span>Email: webofaditya@gmail.com</span>
+            <span>Ph: 9149604035</span>
+            <a href="https://www.linkedin.com/in/aditya-kumar-verma-678384315" target="_blank">LinkedIn</a>
+            <a href="https://github.com/OnlyAKV" target="_blank">GitHub: OnlyAKV</a>
+            <a href="https://www.kaggle.com/adityakumarverma13" target="_blank">Kaggle: adityakumarverma13</a>
+        </div>
+    </header>
+
+    <div class="container">
+        
+        <section>
+            <h2>Education</h2>
+            <div class="timeline-item">
+                <div class="timeline-header">
+                    <div>
+                        <div class="timeline-title">Bachelor of Technology</div>
+                        <div class="timeline-subtitle">Indian Institute of Information Technology (IIIT) Kalyani</div>
+                    </div>
+                    <div class="timeline-date">Expected Graduation: May 2028 | Completed 4th Semester: May 2026</div>
+                </div>
+                <ul>
+                    <li>Relevant Coursework: Data Structures and Algorithms, Machine Learning, Deep Learning, Database Management Systems.</li>
+                    <li><strong>Current CGPA: 8.59</strong></li>
+                </ul>
+            </div>
+        </section>
+
+        <section>
+            <h2>Technical Training</h2>
+            
+            <div class="timeline-item">
+                <div class="timeline-header">
+                    <div>
+                        <div class="timeline-title">Deep Learning Summer School</div>
+                        <div class="timeline-subtitle">PDPM IIITDM Jabalpur</div>
+                    </div>
+                    <div class="timeline-date">Summer 2025</div>
+                </div>
+                <ul>
+                    <li>Completed a multi-week technical program focused on advanced Deep Learning methodologies, neural network architectures, and their practical applications.</li>
+                    <li>Awarded official participation and performance certificates for demonstrating proficiency in training and evaluating complex models.</li>
+                </ul>
+            </div>
+
+            <div class="timeline-item">
+                <div class="timeline-header">
+                    <div>
+                        <div class="timeline-title">The Complete Quantum Computing Course</div>
+                        <div class="timeline-subtitle">Independent Technical Coursework</div>
+                    </div>
+                </div>
+                <ul>
+                    <li>Mastered foundational and advanced concepts in quantum computing through comprehensive online modules.</li>
+                    <li>Gained practical, hands-on experience developing, simulating, and analysing quantum circuits utilizing Aer Simulator methods.</li>
+                    <li>Engaged actively in technical forums to discuss, troubleshoot, and optimize simulator methods and algorithm implementations.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section>
+            <h2>Projects & Kaggle Research</h2>
+            
+            <div class="timeline-item">
+                <div class="timeline-title" style="margin-bottom: 0.8rem;">Kaggle Competitions & Datasets</div>
+                <ul>
+                    <li><strong>Predicting Student Health Risk:</strong> Score 0.94868. <a href="https://www.kaggle.com/code/adityakumarverma13/shr-pred" class="project-link" target="_blank">View Notebook</a></li>
+                    <li><strong>Bone Fracture Multi-Region X-ray Data:</strong> Achieved a val_accuracy of 99.10% on my own custom model architecture. <a href="https://www.kaggle.com/code/adityakumarverma13/bonefracturedetection-val-accuracy-99-10" class="project-link" target="_blank">View Notebook</a></li>
+                    <li><strong>Chest X-Ray Images (Pneumonia):</strong> Custom CNN architecture. <a href="https://www.kaggle.com/code/adityakumarverma13/chest-x-ray-images-pneumonia-custom-cnn-arch" class="project-link" target="_blank">View Notebook</a></li>
+                    <li><strong>Vertebral Column Data Set:</strong> <a href="https://www.kaggle.com/code/adityakumarverma13/vertebral" class="project-link" target="_blank">View Notebook</a></li>
+                    <li><strong>Animals-10 Classifier:</strong> <a href="https://www.kaggle.com/code/adityakumarverma13/classification-mobilenetv2" class="project-link" target="_blank">View Notebook</a></li>
+                </ul>
+            </div>
+
+            <div class="timeline-item">
+                <div class="timeline-title" style="margin-bottom: 0.8rem;">Predictor Models</div>
+                <ul>
+                    <li>sms_spam_detector</li>
+                    <li>Laptop_price_predictor</li>
+                    <li>car_price_pred</li>
+                </ul>
+            </div>
+        </section>
+
+        <section>
+            <h2>Technical Skills</h2>
+            <div class="skills-grid">
+                <div class="skill-category">
+                    <h3>Languages</h3>
+                    <p>Python, C, SQL, C++</p>
+                </div>
+                <div class="skill-category">
+                    <h3>Libraries & Frameworks</h3>
+                    <p>TensorFlow, PyTorch, Pandas, Numpy, Seaborn, Scikit-learn, FastAPI, Pydantic, AerSimulator</p>
+                </div>
+                <div class="skill-category">
+                    <h3>Tools & Developer Env.</h3>
+                    <p>Git/GitHub, Linux environments, Quantum Simulators, Docker, AWS</p>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <h2>Positions of Responsibility & Extracurriculars</h2>
+            <ul>
+                <li>S.E.A.L core member : IIIT KALYANI Robotics Club</li>
+                <li>Served as a member in Organizing Team of Status Code 2 [All India Level Hackathon conducted by IIIT KALYANI]</li>
+            </ul>
+        </section>
+
+    </div>
+</body>
+</html>
