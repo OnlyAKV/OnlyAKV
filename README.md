@@ -11,7 +11,7 @@
 - 🎯 **Event Organizer:** Organizing Team of Status Code 2 (All India Level Hackathon).
 
 ## 🌐 Socials & Contact:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-verma-678384315) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:webofaditya@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/adityakumarverma13) [![Resume](https://img.shields.io/badge/Resume-%234CAF50.svg?logo=reverbnation&logoColor=white)](https://OnlyAKV.github.io/YOUR_REPO_NAME/ADITYA_Resume.html)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-verma-678384315) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:webofaditya@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/adityakumarverma13) [![Resume](https://img.shields.io/badge/Resume-%234CAF50.svg?logo=reverbnation&logoColor=white)](https://OnlyAKV.github.io/OnlyAKV/ADITYA_Resume.html)
 
 ---
 
