@@ -4,16 +4,38 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=20BEFF&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Data+Science+%26+Analytics;Quantum+Computing+Explorer;Undergrad+%40+IIIT+Kalyani" alt="Typing SVG" />
 </p>
 
-# 💫 About Me:
-📖 Undergraduate @ Indian Institute of Information Technology (IIIT) Kalyani<br><br>
+# 💫 About Me
+- 📖 **B.Tech Undergraduate** @ Indian Institute of Information Technology (IIIT) Kalyani (Expected 2028)
+- 📚 **Relevant Coursework:** Data Structures & Algorithms, Machine Learning, Deep Learning, DBMS.
+- 🤖 **S.E.A.L Core Member:** IIIT Kalyani Robotics Club.
+- 🎯 **Event Organizer:** Organizing Team of Status Code 2 (All India Level Hackathon).
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-verma-678384315) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:webofaditya@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/adityakumarverma13)
+## 🌐 Socials & Contact:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-verma-678384315) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:webofaditya@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/adityakumarverma13) [![Resume](https://img.shields.io/badge/Resume-%234CAF50.svg?logo=reverbnation&logoColor=white)](ADITYA_Resume.html)
+
+---
+
+# 🚀 Featured Projects & Kaggle Research
+Here are some of my top-performing models and analyses:
+
+*   🏥 **Bone Fracture Multi-Region X-ray Detection:** Achieved **99.10%** validation accuracy using a custom model architecture. [[View Notebook](https://www.kaggle.com/code/adityakumarverma13/bonefracturedetection-val-accuracy-99-10)]
+*   🩺 **Predicting Student Health Risk:** Achieved a highly accurate predictive score of **0.94868**. [[View Notebook](https://www.kaggle.com/code/adityakumarverma13/shr-pred)]
+*   🫁 **Chest X-Ray Images (Pneumonia):** Developed and trained a custom CNN architecture for accurate classification. [[View Notebook](https://www.kaggle.com/code/adityakumarverma13/chest-x-ray-images-pneumonia-custom-cnn-arch)]
+*   🐾 **Animals-10 Classifier:** Image classification implemented using MobileNetV2. [[View Notebook](https://www.kaggle.com/code/adityakumarverma13/classification-mobilenetv2)]
+*   💻 **Predictor Models:** Built end-to-end models including an SMS Spam Detector, Laptop Price Predictor, and Car Price Predictor.
+
+---
+
+# 🎓 Training & Certifications
+*   **Deep Learning Summer School (Summer 2025):** PDPM IIITDM Jabalpur. Completed a multi-week program focused on advanced Deep Learning methodologies, neural network architectures, and their practical applications.
+*   **The Complete Quantum Computing Course:** Mastered foundational concepts and gained practical experience developing and simulating quantum circuits utilizing Aer Simulator.
+
+---
 
 # 💻 Tech Stack:
 
 ### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🧰 Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -22,7 +44,9 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-%2344CB6B.svg?style=for-the-badge&logo=seaborn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white) ![AerSimulator](https://img.shields.io/badge/AerSimulator-%236929C4.svg?style=for-the-badge&logo=qiskit&logoColor=white)
 
 ### 🛠️ Tools & Developer Env
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google_Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google_Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=OnlyAKV&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
